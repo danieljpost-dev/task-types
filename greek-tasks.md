@@ -16,6 +16,9 @@
 - when you set out to accomplish one specific task but keep getting diverted by side tasks and delayed by circumstances outside your control
 - ok so I took way too long to get this task done but listen to al lthe other great stuff I accomplished while procrastinating
 
+## Pirrhyc Task
+- you have been placed in charge of a project, in order to burn it to the ground
+
 ## Thesian Task
 - how many times can we pivot or change plans and still be working on the same task?
 - needing to rebuild/upgrade something while still making sure it has the exact same functionality and interface of the previous version
@@ -37,7 +40,7 @@
 - something that was Nobody's fault
 
 ## Nobody's Task
-- it was actually your task, but you forgot to do it and there's no record of it being assigned to you , so i'ts actually nobody's
+- it was actually your task, but you forgot to do it and there's no record of it being assigned to you, so i'ts actually nobody's
 
 ## Narcissian Task
 - that selfie tho
@@ -71,6 +74,13 @@
 
 ## Parisian Task
 - where no matter what you do, several people are going to be mad and blame you for ruining things
+- you have options, but whichever one you may choose there are wice as many cons as pros
+
+## Laiusian Task
+- trying so hard to avoid a prophecy you end up fulfilling it
+
+## Homerian Task
+- you pour your heart and soul in to something, but people will still criticize you for it thousands of years later
 
 ## Peneplopean task
 - a tedious task you do really slowly as a stall because doing the real task just makes things worse
