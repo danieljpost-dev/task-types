@@ -126,8 +126,8 @@
 ## Daphnean Task
 - you took it on to avoid an irritating coworker, and now you're just stuck with it forever
 
-  ## Typhoninan Task
-  - when your given task is simply to wreck everything, and you love it
+## Typhoninan Task
+- when your given task is simply to wreck everything, and you love it
 
 ## Antigonean Task
 - the necessary task you have to do in secret because you know someone is going to be a real dick about it if they found out
