@@ -1,4 +1,4 @@
-# task types
+# Task Types (Greek)
 
 ## Icarian Task
 - when you have a task you know you're going to fail at anyways, so why not have some fun with it before it all comes crashing down
@@ -6,7 +6,7 @@
 - an ambitious undertaking doomed by overconfidence or refusal to heed warnings
 
 ## Cassandrean Task
-- when you have to deal with people you *know* won't listen to you, despite having accurate information, and having to wathch them fumble about when you told them the solution from the start (most often withnessed in customer service)
+- when you have to deal with people you *know* won't listen to you, despite having accurate information, and having to watch them fumble about when you told them the solution from the start (most often witnessed in customer service)
 
 ## Promethean Task
 - a task than no one asked you to solve, but you wanted to help anyway, and now the whole place is up in flames
@@ -14,7 +14,7 @@
 
 ## Odysseyan Task
 - when you set out to accomplish one specific task but keep getting diverted by side tasks and delayed by circumstances outside your control
-- ok so I took way too long to get this task done but listen to al lthe other great stuff I accomplished while procrastinating
+- ok so I took way too long to get this task done but listen to all the other great stuff I accomplished while procrastinating
 
 ## Pirrhyc Task
 - you have been placed in charge of a project, in order to burn it to the ground
@@ -28,16 +28,13 @@
 - every time you solve one problem, you discover two more problems as a direct result
 
 ## Pandoran task
-- something you know is gonna opena world of shit but there's a little bit of hope in it
+- something you know is gonna open a world of shit but there's a little bit of hope in it
 
 ## Heran Task
 - when this extra work is definitely your husband's fault
 
 ## Atlasean Task
 - one which feels like the whole world is riding on it
-
-## Polypheman Event
-- something that was Nobody's fault
 
 ## Nobody's Task
 - it was actually your task, but you forgot to do it and there's no record of it being assigned to you, so i'ts actually nobody's
@@ -84,9 +81,6 @@
 
 ## Peneplopean task
 - a tedious task you do really slowly as a stall because doing the real task just makes things worse
-
-## Minosian Event
-- something that wouldn't have snowballed into a huge problem if you'd djus done the one thing you were supposed to do
 
 ## Kraosian Task
 - a task that's ultimately going to ruin everything for everyone, but damn if you're not going tomake sure everyone knows it was you who did it
